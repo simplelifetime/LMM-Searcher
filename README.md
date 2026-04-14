@@ -1,4 +1,4 @@
-# Towards Long-horizon Agentic Visual Search
+# Towards Long-horizon Agentic Multimodal Search
 
 <p align="center">
   <a href="https://arxiv.org/abs/xxxx.xxxxx"><b>[📜 Paper]</b></a> •
