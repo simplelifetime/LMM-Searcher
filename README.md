@@ -10,7 +10,7 @@
 ---
 
 ## 📢 News
-* **[2026-04-15]** We release the paper and code for **Towards Long-horizon Agentic Visual Search**.
+* **[2026-04-15]** We release the paper and code for **Towards Long-horizon Agentic Multimodal Search**.
 
 ## 💡 Overview
 
